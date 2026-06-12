@@ -14,7 +14,9 @@ Secure-Scan is a lightweight web-based security scanner built with Flask that he
 * User-Friendly Dashboard
 * Fast and Lightweight
 
-## 📸 Preview
+## 📸 Preview<img width="1918" height="911" alt="Screenshot 2026-06-12 150113" src="https://github.com/user-attachments/assets/8dbdff50-357f-4f7c-997a-67d0bdb23258" />
+<img width="1536" height="1024" alt="54" src="https://github.com/user-attachments/assets/2ef37ca9-a69d-4fd9-861e-849b61015f39" />
+
 
 Secure-Scan allows users to enter a website URL and instantly receive a security report containing important HTTP header information.
 
